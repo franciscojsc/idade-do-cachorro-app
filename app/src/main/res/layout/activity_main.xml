@@ -44,15 +44,4 @@
         android:text="Descobrir idade"
         />
 
-    <TextView
-        android:id="@+id/text_resultado"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/button_descobrir_idade"
-        android:layout_centerInParent="true"
-        android:layout_margin="5dp"
-        android:textSize="18sp"
-        android:text=""
-        />
-
 </RelativeLayout>
